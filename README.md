@@ -1,2 +1,2 @@
 # Bluffing-detector
-Bluffing detector using polynomial linear regression. 
+Bluffing detector using polynomial linear regression and SVR Model
