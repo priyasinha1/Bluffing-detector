@@ -99,6 +99,5 @@ lin_reg.predict([[6.5]])
 
 
 # In[ ]:
-
-
+#end
 
