@@ -10,7 +10,7 @@ Lower degrees can cause underfitting. In underfitting, the model does not fit tr
 When we set the value for the degree hyperparameter, we should always try to avoid both overfitting and underfitting conditions
 
 # Support Vector Regression
-SVM essentially does – simple class separation
+SVM essentially does – Simple class separation
 It tries to find a line/hyperplane (in multidimensional space) that separates any two classes. Then it classifies the new point depending on whether it lies on the positive or negative side of the hyperplane depending on the classes to predict.
 Hyperplane: This is basically a separating line between two data classes in SVM. But in Support Vector Regression, this is the line that will be used to predict the continuous output
 
