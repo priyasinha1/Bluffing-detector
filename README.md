@@ -1,5 +1,5 @@
 # Bluffing-detector
-Bluffing detector using polynomial linear regression, SVR Model and decision tree regression
+Bluffing detector using polynomial linear regression, SVR Model and decision tree regression.
 
 # Polynomial Regression
 ![](flow-chart.png)
